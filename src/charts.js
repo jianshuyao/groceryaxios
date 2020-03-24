@@ -11,13 +11,13 @@ export default{
               backgroundColor:'#AA6',
               borderWidth:1.0,
               borderColor:"#000"
-            }
-            /*,
+            },
+            
             {
                 label: 'Sales2',
                 data: [40, 30,10,105],
                 backgroundColor:'#7C1'
-              }*/
+              }
           ]
           
         },
