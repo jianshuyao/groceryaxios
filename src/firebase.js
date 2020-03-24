@@ -2,15 +2,14 @@ import firebase from 'firebase';
 
 const firebaseConfig = {
     //Key in your database details
-    aapiKey: "AIzaSyAK7iTBsJEJAkeMkiRkPRoTlGor3HuJm5U",
-    authDomain: "week8-5a6b1.firebaseapp.com",
-    databaseURL: "https://week8-5a6b1.firebaseio.com",
-    projectId: "week8-5a6b1",
-    storageBucket: "week8-5a6b1.appspot.com",
-    messagingSenderId: "489186800",
-    appId: "1:489186800:web:33ab211feb9a3330a5a935",
-    measurementId: "G-Q0THYTQJ3F"
-
+    apiKey: "AIzaSyD6hoONEc5K1s4n6PMuI92pcwarnIP8Wfc",
+    authDomain: "groceryaxios-88663.firebaseapp.com",
+    databaseURL: "https://groceryaxios-88663.firebaseio.com",
+    projectId: "groceryaxios-88663",
+    storageBucket: "groceryaxios-88663.appspot.com",
+    messagingSenderId: "700246308958",
+    appId: "1:700246308958:web:eaf118435ae1b7985e1ccf",
+    measurementId: "G-3ZMQEBNRQR"
   };
   
   firebase.initializeApp(firebaseConfig);
